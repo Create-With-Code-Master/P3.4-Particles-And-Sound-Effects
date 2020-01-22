@@ -4,9 +4,9 @@ layout: tabbed-assignment
 
 # Overview
 
-<img class="overview-image" src="">
+<img class="overview-image" src="https://connect-prd-cdn.unity.com/20190521/learn/images/0d1a0087-ed5a-4ec7-a215-5c42b6667a90_3_4_full.png">
 
-Describe what students will be doing and provide, or expand upon, the assignment outcome.
+In the final lesson for {% site.data.assignment.starter-code-repo %}, we'll learn how to add particle effects and sounds to our game.
 
 <!-- Don't edit links here, change them in _data/assignment.yml instead, -->
 
