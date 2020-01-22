@@ -6,9 +6,10 @@ layout: tabbed-assignment
 
 By the end of this lesson, you will be able to:
 
-* 
-* 
-* 
+* Attach particle effects as children to game objects
+* Stop and play particle effects to correspond with character animation states
+* Work with Audio Sources and Listeners to play background music
+* Add sound effects to add polish to your project
 
 <!-- Don't edit links here, change them in _data/assignment.yml instead, -->
 
